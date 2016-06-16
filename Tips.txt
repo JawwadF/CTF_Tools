@@ -1,0 +1,6 @@
+Use strings
+
+Use ltrace for binaries which require a password - might be a simple strcmp
+
+Use pdfcrack for brute forcing
+
